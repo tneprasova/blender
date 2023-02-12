@@ -1,2 +1,1 @@
-# blender
-My Blender projects
+# Blender
